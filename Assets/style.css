@@ -1,0 +1,49 @@
+
+body{
+    background-color: #F0E9D2;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    color: #181D31;
+}
+
+.header{
+    background-color: #E6DDC4;
+    border-style: solid;
+    border-color: black;
+}
+
+.text-1{
+    background-color: #88bab1;
+    border-radius: 15px;
+}
+
+.text-2{
+    background-color: #E6DDC4;
+    border-radius: 15px;
+}
+
+#title-1 {
+    font-weight: 700;
+    font-size:  3em;
+    border-style: 1px solid black;
+    border-radius: 15px;
+}
+
+#evolutions{
+    column-count:3;
+    column-rule:thick inset white;
+    background-color: #181D31;
+    color: white;
+    line-height: 25px;
+ }
+
+ #images-evolution{
+    column-count:3;
+    column-rule:thick inset black;
+    column-gap:20px;
+ }
+
+ img {
+    display:block;
+    margin: auto;
+}
